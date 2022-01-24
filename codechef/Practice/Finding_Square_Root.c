@@ -1,7 +1,7 @@
 // problem link=https://www.codechef.com/problems/FSQRT
 
 // problem statement
-// Finding Square Roots Problem Code: FSQRTSolvedSubmit
+// Finding Square Roots 
  
 
 // In olden days finding square roots seemed to be difficult but nowadays it can be easily done using in-built functions available across many languages .
